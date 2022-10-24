@@ -11,6 +11,7 @@ header{
 .wrapper{
     width: 940px;
     margin: 0 auto;
+    height: 78px;
 }
 .logo,
 .links{
@@ -35,6 +36,7 @@ a{
 .section1{
     background-color: #FAC960;
     width: 1440px;
+    margin: 0 auto;
     height: 421px;
     border-radius: 0px;
 }
@@ -44,7 +46,7 @@ a{
     line-height: 54px;
     text-align: center;
     color: #8A6D2F;;
-    padding-top: 102px;
+    padding-top: 122px;
     padding-left: 380px;
     padding-right: 380px;
 }
@@ -56,9 +58,15 @@ a{
     background-color: #ffff;
     width: 560px;
     height: 54px;
-    padding-left: 32px;
-    padding-top: 25px;
+    padding-left: 320px;
+    padding-top: 250px;
 }
+.text2{
+    font-size: 30px;
+    font-weight: 400px;
+    color: #999999;
+    text-align: center;
+    }
 .button{
     background-color: #A8863D;
     font-weight: 400px;
@@ -72,14 +80,14 @@ a{
     height: 438px;
     border-radius: 0px;
 }
-.text2{
+.text3{
     font-size: 37px;
     font-weight: 400px;
     color: rgba(0, 0, 0, 0.56);
     text-align: center;
     padding-top: 77px;
 }
-.text3{
+.text4{
     font-size: 23px;
     font-weight: 400px;
     color: rgba(0, 0, 0, 0.4);
@@ -91,7 +99,7 @@ a{
     padding-left: 627px;
     padding-bottom: 81px;
 }
-.text4{
+.text5{
     font-size: 37px;
     font-weight: 400px;
     color: rgba(0, 0, 0, 0.56);
@@ -108,7 +116,7 @@ a{
     height: 313px;
     border-radius: 0px;
 }
-.text5{
+.text6{
     font-size: 37px;
     font-weight: 400px;
     color: #8A6D2F;
